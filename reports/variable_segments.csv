@@ -1,0 +1,16 @@
+a_station,b_station,route_ids,record_count,avg_travel_minutes,std_dev_seconds,variability_pct
+Botanic Garden,Prospect Park,FS,110,2.12,74.27,58.4
+Shepherd Av,Euclid Av,A C,259,0.99,26.64,44.99
+Avenue U,Kings Hwy,F,107,2.11,49.51,39.12
+Crescent St,Cypress Hills,J Z,113,3.93,86.07,36.5
+Parsons Blvd,169 St,F,105,3.1,66.57,35.82
+20 Av,Bay Pkwy,D,168,1.42,29.66,34.74
+Aqueduct-N Conduit Av,Howard Beach-JFK Airport,A,257,1.84,36.14,32.72
+86 St,Bay Ridge-95 St,R,244,0.62,11.63,31.17
+Junction Blvd,103 St-Corona Plaza,7,235,1.03,18.79,30.53
+Woodhaven Blvd,63 Dr-Rego Park,E F M R,168,2.1,37.94,30.12
+Dyckman St,207 St,1,261,1.69,29.88,29.53
+169 St,Jamaica-179 St,F,130,0.63,11.03,29.24
+Fresh Pond Rd,Middle Village-Metropolitan Av,M,260,1.36,23.45,28.68
+Broadway Junction,Sutter Av,L,107,3.5,59.16,28.17
+163 St-Amsterdam Av,168 St,A C,127,1.86,30.53,27.28

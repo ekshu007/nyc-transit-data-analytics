@@ -1,0 +1,16 @@
+a_station,b_station,route_ids,record_count,avg_travel_minutes,median_travel_minutes
+St George,Great Kills,SS,253,16.87,16.84
+3 Av-149 St,E 180 St,5,197,11.78,11.61
+E 180 St,3 Av-149 St,5,239,11.43,11.03
+Canal St,Atlantic Av-Barclays Ctr,N,256,11.04,11.02
+75 St-Elderts Ln,Sutphin Blvd-Archer Av-JFK Airport,J,172,10.49,10.49
+Woodhaven Blvd,Van Siclen Av,J Z,100,10.46,10.47
+Atlantic Av-Barclays Ctr,Canal St,N,251,10.31,10.25
+Woodhaven Blvd,Crescent St,J,187,10.25,10.24
+Woodhaven Blvd,Norwood Av,J,190,10.24,10.22
+Woodhaven Blvd,Cleveland St,J,254,10.22,10.23
+Grand St,Atlantic Av-Barclays Ctr,D,251,10.16,10.11
+Woodhaven Blvd,85 St-Forest Pkwy,J Z,110,9.64,9.64
+75 St-Elderts Ln,85 St-Forest Pkwy,J,148,9.61,9.62
+Woodhaven Blvd,85 St-Forest Pkwy,J,147,9.61,9.62
+Atlantic Av-Barclays Ctr,Grand St,D,260,9.47,9.45

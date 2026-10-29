@@ -1,0 +1,13 @@
+month_number,month_name,segment_records,service_days,avg_travel_seconds,avg_travel_minutes,median_travel_minutes
+1,January,26112,23,139.37,2.32,1.83
+2,February,22551,20,138.42,2.31,1.82
+3,March,23390,21,136.68,2.28,1.82
+4,April,25045,22,139.67,2.33,1.84
+5,May,24957,22,139.32,2.32,1.84
+6,June,24055,21,141.29,2.35,1.84
+7,July,26128,23,140.31,2.34,1.84
+8,August,24032,21,139.38,2.32,1.82
+9,September,25014,22,138.63,2.31,1.82
+10,October,26237,23,139.37,2.32,1.83
+11,November,22514,20,138.82,2.31,1.83
+12,December,26079,23,138.73,2.31,1.83
